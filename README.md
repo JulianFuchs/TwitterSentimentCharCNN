@@ -11,4 +11,3 @@ As a base code, the code written by https://github.com/scharmchi was used found 
  - Since the maximal twitter length is 140 and the original paper has a sequence length of 1014 in mind, we only use 2 pooling steps instead of 3 as in the original paper, since otherwise the vectors would get too small
  - You can manually set the number of filters for each convolutional layer
 
-test
